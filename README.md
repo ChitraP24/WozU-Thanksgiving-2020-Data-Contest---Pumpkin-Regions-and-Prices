@@ -1,8 +1,14 @@
-# WozU-Thanksgiving-2020-Data-Contest---Pumpkin-Regions-and-Prices
+# Does Region Affect how Pumpkins are Priced?
 
-Name
 
-Overview
+## Overview
+What influences pumpkin pricing the most?
+What factors impact the size of the pumpkins?
+- Size
+- Color
+- Variety
+- Origin 
+- Package 
+- Location purchased 
 
-Questions
 
